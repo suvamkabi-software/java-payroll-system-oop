@@ -60,10 +60,6 @@ Payroll systems are commonly used in organizations to manage employee records an
 <pre>
 java-payroll-system-oop
 │
-├── Employee.java
-├── FullTimeEmployee.java
-├── PartTimeEmployee.java
-├── PayrollSystem.java
 └── Main.java
 </pre>
 
